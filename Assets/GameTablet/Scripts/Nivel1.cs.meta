@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6bfba66cca879e64a8848b041318ed8b
+timeCreated: 1580764549
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabNumerosLetras: {fileID: -849077008, guid: 73603e3023fd84b499342c1fe41520eb,
+      type: 2}
+  - prefabAdivinar: {fileID: 1238161872987716, guid: 6c6b240af28e78f46849661fef988841,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

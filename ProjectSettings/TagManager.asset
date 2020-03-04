@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - abecedario_0
+  - abecedario_1
+  - abecedario_2
+  - abecedario_3
+  - abecedario_4
+  - abecedario_5
+  - abecedario_6
+  - abecedario_7
+  - abecedario_8
+  - abecedario_9
+  - abecedario_10
+  - abecedario_11
+  - abecedario_12
+  - abecedario_13
+  - abecedario_14
+  - abecedario_15
+  - abecedario_16
+  - abecedario_17
+  - abecedario_18
+  - abecedario_19
+  - abecedario_20
+  - abecedario_21
+  - abecedario_22
+  - abecedario_23
+  - abecedario_24
+  - abecedario_25
+  - abecedario_26
+  - abecedario_27
+  - abecedario_28
+  - Speed
+  - Slow
+  - numeros_0
+  - numeros_1
+  - numeros_2
+  - numeros_3
+  - numeros_4
+  - numeros_5
+  - numeros_6
+  - numeros_7
+  - numeros_8
+  - numeros_9
+  - Planeta2
+  - Planeta3
+  - Planeta4
+  - Planeta1
+  - Planeta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1332438025
+    locked: 0
+  - name: Foreground
+    uniqueID: 4246465239
+    locked: 0
